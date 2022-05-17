@@ -1,4 +1,4 @@
-A collection of commonly used platform-independent modules for use in embedded systems.
+A collection of commonly used platform-independent modules for use in embedded systems.  Please refer to the readme's in each of the subfolder for module specifics and usage.
 
 **boot**: a generic bootloader implementation
 
