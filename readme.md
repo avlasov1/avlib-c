@@ -1,5 +1,3 @@
-avlib-c
-
 A collection of commonly used platform-independent modules for use in embedded systems.
 
 **boot**: a generic bootloader implementation
